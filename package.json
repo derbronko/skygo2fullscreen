@@ -1,0 +1,29 @@
+{
+  "title": "SkyGo2Fullscreen",
+  "name": "skygo2fullscreen",
+  "version": "0.0.1",
+  "description": "Mit dieser Erweiterung kannst du Inhalte auf SkyGo in schöner Auflösung schauen und nebenbei weiter arbeiten, surfen oder was auch immer du machen möchtest.",
+  "main": "index.js",
+  "author": "derBronko",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack",
+    "Media",
+    "Sky",
+    "Football",
+    "Fußball",
+    "On Demand",
+    "Bundesliga",
+    "Filme",
+    "Serien",
+    "Full HD",
+    "Fullscreen",
+    "Work",
+    "Arbeiten",
+    "Vollbild",
+    "Medien"
+  ]
+}
