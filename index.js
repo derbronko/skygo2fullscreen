@@ -13,7 +13,7 @@ var button = buttons.ActionButton({
     onClick: handleClick
 });
 
-function handleClick(state) {
+function handleClick() {
     var currentDomain = extractDomain(tabs.activeTab.url),
         targetDomain = 'www.skygo.sky.de';
     if(currentDomain == targetDomain){
@@ -21,9 +21,8 @@ function handleClick(state) {
     }else{
         tabs.open({
             url: "https://" + targetDomain,
-            onReady: function onReady(tab) {
+            onReady: function () {
                 injectScripts();
-                console.log(tab.title);
             }
         });
     }

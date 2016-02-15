@@ -1,7 +1,7 @@
 {
   "title": "SkyGo2Fullscreen",
   "name": "skygo2fullscreen",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mit dieser Erweiterung kannst du Inhalte auf SkyGo in schöner Auflösung schauen und nebenbei weiter arbeiten, surfen oder was auch immer du machen möchtest.",
   "main": "index.js",
   "author": "derBronko",
