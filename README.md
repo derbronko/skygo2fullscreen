@@ -30,5 +30,5 @@ Coming up in future
 - IE and safari compatibility
 - Testing
 
-Drop me a line an mail -at- derbronko.de
+Drop me a line to mail -at- derbronko.de
 -------------
