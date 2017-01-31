@@ -1,5 +1,7 @@
 skygo2fullscreen 0.1.0
 =========================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/derbronko/skygo2fullscreen.svg)](https://greenkeeper.io/)
 Makes Sky Go supporting looking videos, films and live-streams and doing other stuff at the same time
 
 Using
